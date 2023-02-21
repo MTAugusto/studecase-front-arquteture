@@ -1,0 +1,6 @@
+.conteiner-body {
+    @apply bg-slate-100;
+    @apply flex justify-center items-center flex-col;
+    @apply h-screen;
+}
+

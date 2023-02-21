@@ -1,0 +1,5 @@
+.content-pages{
+    height: 99%;
+    @apply m-1 w-full rounded-sm;
+    @apply bg-blue-600;
+}

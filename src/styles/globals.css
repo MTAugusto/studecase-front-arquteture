@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Foundation */
+@import url(../foundation/Layout/ContainerPages/styles.css);
+@import url(../foundation/Layout/ContainerBody/styles.css);
+
+
